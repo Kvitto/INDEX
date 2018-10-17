@@ -1,0 +1,2 @@
+<input type="date" value="${param.toDate}" name="toDate" title="To Date">
+${param.toDate} - toDate имя поля значение которого мы отправляли в запрос. С помощью ${param.[...]} можно достать предыдущее значение этого поля.
